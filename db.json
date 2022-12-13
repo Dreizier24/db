@@ -1,4 +1,4 @@
-
+{
   {
     "id": 1,
     "name":"Steve",
@@ -17,6 +17,4 @@
     "job":"leader",
     "title": "Post 3"
   }
- "profile": {
-    "name": "typicode"
-  }
+}
