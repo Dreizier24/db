@@ -1,20 +1,6 @@
-[
-  {
-    "id": 1,
-    "name":"Steve",
-    "job":"programmer",
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "name":"Alex",
-    "job":"driver",
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "name":"Nathan",
-    "job":"leader",
-    "title": "Post 3"
-  }
-]
+{
+    "name": "morpheus",
+    "job": "leader",
+    "id": "686",
+    "createdAt": "2022-12-13T09:53:32.207Z"
+}
