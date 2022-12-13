@@ -1,22 +1,7 @@
 {
     "sueta":[
-        {
-    "id": 1,
-    "name":"Steve",
-    "job":"programmer",
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "name":"Alex",
-    "job":"driver",
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "name":"Nathan",
-    "job":"leader",
-    "title": "Post 3"
-  }
+        {"id": 1, "name":"Steve", "job":"programmer", "title": "Post 1"},
+        {"id": 2, "name":"Alex", "job":"driver", "title": "Post 2"},
+        {"id": 3, "name":"Nathan", "job":"leader", "title": "Post 3"}
     ]
 }
